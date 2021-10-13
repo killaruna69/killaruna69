@@ -1,0 +1,9 @@
+- 👋 Sup!?, I’m @killaruna69
+- 👀 I’m lokking for learn...
+- 🌱 I’m just starting...
+- 📫 How to reach me? Just send a message; https://bit.ly/3mRyWDG ...
+
+<!---
+killaruna69/killaruna69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
